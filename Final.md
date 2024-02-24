@@ -1,0 +1,4 @@
+- [[Keyword]] 
+- prevents method form being overiden 
+- prevents class from being inherited, it implicitly declares all of its method final as well. 
+- can be overloaded 
